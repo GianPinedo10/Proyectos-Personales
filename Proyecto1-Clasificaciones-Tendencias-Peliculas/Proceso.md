@@ -15,6 +15,6 @@
   - Duración media: Películas con una duración mayor a 90 minutos pero menor o igual a 120 minutos
   - Duración larga: Películas con una duración mayor a 120 minutos
 - Se creó la columna Meta_Score-Categorias derivada de la columna Meta_score para clasificar las puntuaciones. De igual forma, se utilizó la función condicional SI. El criterio fue el siguiente:
-  - Duración corta: Películas con una duración menor a 90 minutos
-  - Duración media: Películas con una duración mayor a 90 minutos pero menor o igual a 120 minutos
-  - Duración larga: Películas con una duración mayor a 120 minutos 
+  - Score bajo: Valores entre 0-50
+  - Score medio: Valores entre 51-75
+  - Score alto: Valores entre 76-100 
