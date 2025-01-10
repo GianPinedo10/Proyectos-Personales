@@ -25,6 +25,8 @@ En esta etapa, se diseñó y configuró las tablas dinámicas para facilitar el 
 En una hoja nueva, se recopilaron y organizaron todos los gráficos generados para resumir de manera visual los hallazgos claves del análisis. Además, se insertaron segmentaciones de datos, permitiendo filtrar según criterios específicos(Certificate y RuntTime-Categorias)
 ### 7. Conclusiones
 En esta sección se resumen los principales hallazgos obtenidos a partir del análisis de los datos:
+- Los géneros con mayores ingresos promedio son: Fantasy y Action. Por otro lado, los géneros con menores ingresos promedio son Thriller y Western 
+- L
 
 
 
