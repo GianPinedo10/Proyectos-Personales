@@ -27,5 +27,5 @@ En una hoja nueva, se recopilaron y organizaron todos los gráficos generados pa
 En esta sección se resumen los hallazgos más importantes obtenidos a partir del análisis de los datos:
 - Los géneros con mayores ingresos promedio son: Fantasy y Action. Por otro lado, los géneros con menores ingresos promedio son Thriller y Western 
 - Las películas clasificadas con un Meta_Score alto tienen una distribución de ingresos del 53.28% en comparación con las películas clasificadas con un Meta_Score medio(37.03%) y Meta_Score bajo(9.69%)
-- 
+- Las mejores películas con una duración corta tienen un máximo de 8.5 de puntuación según el IMDB_Rating. Por otro lado, 
 
