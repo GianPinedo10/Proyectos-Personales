@@ -10,4 +10,7 @@
 - No se encontraron valores duplicados  
 ### 4. Creación  de nuevas columnas
 - Se creó la columna Década de Estreno derivada de la columna Released_Year para un análisis más sencillo y eficiente. Para ello, se usó la fórmula de CONCATENAR. 
-- Se creó la columna RunTime-Categorias para agrupar los valores en 3 categorias. Duración
+- Se creó la columna RunTime-Categorias para agrupar los valores en 3 categorias. Se usó la fórmula condicional SI. El criterio fue el siguiente:
+- Duración corta: Películas con una duración menor a 90 minutos
+- Duración media: Películas con una duración mayor a 90 minutos pero menor o igual a 120 minutos
+- Duración larga: Películas con una duración mayor a 120 minutos
