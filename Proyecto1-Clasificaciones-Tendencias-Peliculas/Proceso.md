@@ -19,5 +19,7 @@
   - Score medio: Valores entre 51-75
   - Score alto: Valores entre 76-100
 - Por último se creó la columna Género Principal derivado de la columna Genre para poder realizar el análisis individualmente de cada género ya que originalmente se tienen varios géneros agrupados lo que dificulta la interpretación. Se usó la función INDICE y DIVIDIRTEXTO
-### 5. Creación  de nuevas columnas    
+### 5. Creación  de tablas dinámicas
+En esta etapa, se diseñaron y configuraron tablas dinámicas para facilitar el análisis y la visualización de los datos.
+
 
