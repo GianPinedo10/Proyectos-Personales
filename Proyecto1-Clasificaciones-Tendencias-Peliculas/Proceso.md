@@ -20,6 +20,11 @@
   - Score alto: Valores entre 76-100
 - Por último se creó la columna Género Principal derivado de la columna Genre para poder realizar el análisis individualmente de cada género ya que originalmente se tienen varios géneros agrupados lo que dificulta la interpretación. Se usó la función INDICE y DIVIDIRTEXTO
 ### 5. Creación  de tablas dinámicas y gráficos 
-En esta etapa, se diseñaron y configuraron tablas dinámicas para facilitar el análisis y la visualización de los datos. En total se crearon 8 tablas dinámicas y con ello se pudieron crear los gráficos correspondientes.
+En esta etapa, se diseñó y configuró las tablas dinámicas para facilitar el análisis y la visualización de los datos. En total se crearon 8 tablas dinámicas y con ello se pudieron crear los gráficos correspondientes.
+### 6. Creación  del dashboard
+En una hoja nueva, se recopilaron y organizaron todos los gráficos generados para resumir de manera visual los hallazgos claves del análisis.
+### 7. Conclusiones
+En esta sección se resumen los principales hallazgos obtenidos a partir del análisis de los datos:
+
 
 
