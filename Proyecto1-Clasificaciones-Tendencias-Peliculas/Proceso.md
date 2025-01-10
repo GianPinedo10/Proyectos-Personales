@@ -8,3 +8,6 @@
 - Para la columna Certificate se utilizó la herramienta Buscar y reemplazar, rellenando las celdas vacías con "Desconocido"
 - En el caso de las demás columnas se rellenaron con valores aleatorios que se encontraban en el intervalo de la columna (Meta_Score y Gross)
 - No se encontraron valores duplicados  
+### 4. Creación  de nuevas columnas
+- Se creó la columna Década de Estreno derivada de la columna Released_Year para un análisis más sencillo y eficiente. Para ello, se usó la fórmula de CONCATENAR. 
+- Se creó la columna RunTime-Categorias para agrupar los valores en 3 categorias. Duración
