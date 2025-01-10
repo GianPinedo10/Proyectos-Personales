@@ -13,3 +13,7 @@ Análisis de un dataset de películas utilizando herramientas avanzadas de Excel
   - **Calificaciones**: Puntuaciones de IMDB y Meta_Score.
   - **Ingresos**: Valores en bruto generados por las películas.
   - **Otros campos**: Actores, directores, años de lanzamiento, etc.
+  - **Géneros**: Clasificación por tipo de película.
+  - **Calificaciones**: Puntuaciones de IMDB y Meta_Score.
+  - **Ingresos**: Valores en bruto generados por las películas.
+  - **Otros campos**: Actores, directores, años de lanzamiento, etc.
