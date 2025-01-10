@@ -29,5 +29,3 @@ En esta sección se resumen los hallazgos más importantes obtenidos a partir de
 - Las películas clasificadas con un Meta_Score alto tienen una distribución de ingresos del 53.28% en comparación con las películas clasificadas con un Meta_Score medio(37.03%) y Meta_Score bajo(9.69%)
 - 
 
-
-
