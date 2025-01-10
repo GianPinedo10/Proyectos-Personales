@@ -24,7 +24,7 @@ En esta etapa, se diseñó y configuró las tablas dinámicas para facilitar el 
 ### 6. Creación  del dashboard
 En una hoja nueva, se recopilaron y organizaron todos los gráficos generados para resumir de manera visual los hallazgos claves del análisis. Además, se insertaron segmentaciones de datos, permitiendo filtrar según criterios específicos(Certificate y RuntTime-Categorias)
 ### 7. Conclusiones
-En esta sección se resumen los principales hallazgos obtenidos a partir del análisis de los datos:
+En esta sección se resumen los hallazgos más importantes obtenidos a partir del análisis de los datos:
 - Los géneros con mayores ingresos promedio son: Fantasy y Action. Por otro lado, los géneros con menores ingresos promedio son Thriller y Western 
 - Las películas clasificadas con un Meta_Score alto tienen una distribución de ingresos del 53.28% en comparación con las películas clasificadas con un Meta_Score medio(37.03%) y Meta_Score bajo(9.69%)
 - 
