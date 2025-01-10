@@ -22,7 +22,7 @@
 ### 5. Creación  de tablas dinámicas y gráficos 
 En esta etapa, se diseñó y configuró las tablas dinámicas para facilitar el análisis y la visualización de los datos. En total se crearon 8 tablas dinámicas y con ello se pudieron crear los gráficos correspondientes.
 ### 6. Creación  del dashboard
-En una hoja nueva, se recopilaron y organizaron todos los gráficos generados para resumir de manera visual los hallazgos claves del análisis.
+En una hoja nueva, se recopilaron y organizaron todos los gráficos generados para resumir de manera visual los hallazgos claves del análisis. Además, se insertaron segmentaciones de datos, permitiendo filtrar según criterios específicos(Certificate y RuntTime-Categorias)
 ### 7. Conclusiones
 En esta sección se resumen los principales hallazgos obtenidos a partir del análisis de los datos:
 
