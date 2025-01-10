@@ -9,9 +9,12 @@
 - En el caso de las demás columnas se rellenaron con valores aleatorios que se encontraban en el intervalo de la columna (Meta_Score y Gross)
 - No se encontraron valores duplicados  
 ### 4. Creación  de nuevas columnas
-- Se creó la columna Década de Estreno derivada de la columna Released_Year para un análisis más sencillo y eficiente. Para ello, se usó la fórmula de CONCATENAR. 
-- Se creó la columna RunTime-Categorias derivada de la columna RunTime para agrupar los valores en 3 categorias. Se usó la fórmula condicional SI. El criterio fue el siguiente:
+- Se creó la columna Década de Estreno derivada de la columna Released_Year para un análisis más sencillo y eficiente. Para ello, se usó la función de CONCATENAR. 
+- Se creó la columna RunTime-Categorias derivada de la columna RunTime para agrupar los valores en 3 categorias. Se usó la función condicional SI. El criterio fue el siguiente:
   - Duración corta: Películas con una duración menor a 90 minutos
   - Duración media: Películas con una duración mayor a 90 minutos pero menor o igual a 120 minutos
   - Duración larga: Películas con una duración mayor a 120 minutos
-- Se creó la columna Meta_Score-Categorias derivada de la columna Meta_score
+- Se creó la columna Meta_Score-Categorias derivada de la columna Meta_score para clasificar las puntuaciones. De igual forma, se utilizó la función condicional SI. El criterio fue el siguiente:
+  - Duración corta: Películas con una duración menor a 90 minutos
+  - Duración media: Películas con una duración mayor a 90 minutos pero menor o igual a 120 minutos
+  - Duración larga: Películas con una duración mayor a 120 minutos 
