@@ -18,4 +18,5 @@
   - Score bajo: Valores entre 0-50
   - Score medio: Valores entre 51-75
   - Score alto: Valores entre 76-100
+    
 -Por último se creó la columna Género Principal derivado de la columna Genre para poder realizar el análisis individualmente de cada género ya que originalmente se tienen varios géneros agrupados lo que dificulta la interpretación. Se usó la función INDICE y DIVIDIRTEXTO
