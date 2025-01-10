@@ -6,5 +6,5 @@ Análisis de un dataset de películas utilizando herramientas avanzadas de Excel
 2. Analizar la relación entre calificaciones y otros factores
 3. Investigar la relación entre los actores, directores y el éxito de las películas
 ## Dataset
-**Fuente**: 
+**Fuente**: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 **Descripción**: El dataset contiene información de 
