@@ -4,6 +4,7 @@ Análisis de un dataset de películas utilizando herramientas avanzadas de Excel
 ## Objetivos Generales
 1. Explorar las tendencias de ingresos y popularidad en la industria cinematográfica
 2. Analizar la relación entre calificaciones y otros factores
+3. Aplicar técnicas de análisis y visualización de datos para extraer conclusiones relevantes a partir de un dataset de películas.
 ## Dataset
 **Fuente**: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
