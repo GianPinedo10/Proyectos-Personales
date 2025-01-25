@@ -1,5 +1,8 @@
+/* Consultas utilizadas para el proyecto */
+
 -- 1. Total de ingresos por las órdenes de pizza 
 SELECT SUM(total_price) AS Total_Ingresos from pizza_sales
+    
 -- 1.1 Total de ingresos por categoría 
 SELECT 
     pizza_category, 
