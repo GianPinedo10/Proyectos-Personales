@@ -19,5 +19,6 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 -  La pizza de tamaño Grande representó un 45.89% de los ingresos totales
 -  Entre todas las pizzas, La Thai Chicken Pizza fue la que más contribuyó a los ingresos generales
 -  Por otro lado, La Brie Carre Pizza tuvo el menor impacto en las ventas
+## Recomendaciones
 
   
