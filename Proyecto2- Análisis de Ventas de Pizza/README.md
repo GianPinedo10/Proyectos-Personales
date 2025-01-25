@@ -6,6 +6,6 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 ![image](https://github.com/user-attachments/assets/e6986cd0-7bfe-46ff-a4b3-e7f19bd09656)
 
 ## Objetivos Generales
-1. Explorar las tendencias de ingresos y popularidad en la industria cinematográfica
-2. Analizar la relación entre calificaciones y otros factores
-3. Aplicar técnicas de análisis y visualización de datos para extraer conclusiones relevantes a partir de un dataset de películas.
+1. Identificar oportunidades de mejora en la oferta del restaurante mediante el análisis de datos de las ventas.
+2. Evaluar el rendimiento de las diferentes categorías y tamaños de pizzas ofrecidas por el restaurante en términos de ingresos y popularidad
+3. Analizar las ventas de pizzas para comprender las preferencias de los clientes.
