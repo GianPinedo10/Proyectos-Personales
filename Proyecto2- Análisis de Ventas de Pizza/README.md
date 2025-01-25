@@ -4,6 +4,8 @@ Exploración y análisis de un dataset centrado en las ventas de pizzas de un re
 
 Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar a este [enlace](https://app.powerbi.com/view?r=eyJrIjoiZjIzM2U0ZjctNWRlYi00N2MwLWIwMzQtNmJkY2U2NWI2YzlkIiwidCI6ImU0NmQzODYyLTg1OTUtNDVkMS05YjY5LTYzMDc5OGQ4OTAyZCIsImMiOjR9&pageName=c56b29c87c2ab31f3f06).
 ![image](https://github.com/user-attachments/assets/e6986cd0-7bfe-46ff-a4b3-e7f19bd09656)
+![image](https://github.com/user-attachments/assets/41abb93c-bc73-4112-8000-8abacaa06d8c)
+
 
 ## Objetivos Generales
 1. Identificar oportunidades de mejora en la oferta del restaurante mediante el análisis de datos de las ventas.
