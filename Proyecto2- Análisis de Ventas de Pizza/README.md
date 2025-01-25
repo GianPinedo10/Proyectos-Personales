@@ -9,3 +9,8 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 1. Identificar oportunidades de mejora en la oferta del restaurante mediante el análisis de datos de las ventas.
 2. Evaluar el rendimiento de las diferentes categorías y tamaños de pizzas ofrecidas por el restaurante en términos de ingresos y popularidad
 3. Analizar las ventas de pizzas para comprender las preferencias de los clientes.
+
+## Hallazgos Clave
+-  adskadas
+-  askdapsdadk
+-  
