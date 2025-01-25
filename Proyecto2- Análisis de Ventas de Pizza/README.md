@@ -11,6 +11,11 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 3. Analizar las ventas de pizzas para comprender las preferencias de los clientes.
 
 ## Hallazgos Clave
--  adskadas
--  askdapsdadk
--  
+-  Los días con más órdenes fueron viernes y sábado, reflejando una mayor cantidad de clientes los fines de semana.
+-  Los meses de julio y mayo registraron los mayores volúmenes de pedidos
+-  La pizza tipo Classic generó el mayor porcentaje de ingresos con un 26.91% del total
+-  La pizza de tamaño Grande representaron un 45.89% de los ingresos totales
+-  Entre todas las pizzas, La Thai Chicken Pizza fue la que más contribuyó a los ingresos generales
+-  Por otro lado, La Brie Carre Pizza tuvo el menor impacto en las ventas
+
+  
