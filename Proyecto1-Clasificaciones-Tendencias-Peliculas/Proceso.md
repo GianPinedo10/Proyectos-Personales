@@ -17,7 +17,7 @@
 - Se creó la columna Meta_Score-Categorias derivada de la columna Meta_score para clasificar las puntuaciones. De igual forma, se utilizó la función condicional SI. El criterio fue el siguiente:
   - Score bajo: Valores entre 0-50.
   - Score medio: Valores entre 51-75.
-  - Score alto: Valores entre 76-100.![image](https://github.com/user-attachments/assets/36b94ae0-2da2-4374-81be-ab5a618401b7)
+  - Score alto: Valores entre 76-100.
 
 - Por último se creó la columna Género Principal derivado de la columna Genre para poder realizar el análisis individualmente de cada género ya que originalmente se tienen varios géneros agrupados lo que dificulta la interpretación. Se usó la función INDICE y DIVIDIRTEXTO.
 ### 5. Creación  de tablas dinámicas y gráficos 
