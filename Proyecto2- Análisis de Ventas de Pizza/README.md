@@ -20,6 +20,7 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 -  Entre todas las pizzas, La Thai Chicken Pizza fue la que más contribuyó a los ingresos generales
 -  Por otro lado, La Brie Carre Pizza tuvo el menor impacto en las ventas
 ## Recomendaciones
--  Se podría considerar lanzar promociones especiales o combos familiares en los días con mayor demanda para atraer a la máxima cantidad posible de clientes
--  
+-  Analizar los tiempos de preparación y entrega en los días más ocupados para mejorar la eficiencia y la satisfacción del cliente.
+-  Ofrecer descuentos especiales o promociones durante los días de baja demanda para atraer a más clientes
+-  En el caso de la Brie Carre Pizza lo mejor sería reemplazarla por una nueva opción en el menú dado el bajo rendimiento que tuvo. Sin embargo, otra opción podría ser reducir el precio de esta pizza 
   
