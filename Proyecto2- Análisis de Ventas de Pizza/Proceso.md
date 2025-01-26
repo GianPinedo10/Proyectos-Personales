@@ -11,8 +11,13 @@ Después de finalizar con el análisis exploratorio en SQL es necesario importar
 Antes de construir los reportes, se utilizaron herramientas de transformación en Power Query para limpiar y estructurar los datos. Los cambios que se hicieron fueron los siguientes:
 - Reemplazo de valores en pizza_size: L por Grande, M por Mediana, S por Pequeña, XL por Extra Grande y XXL por Doble Extra Grande. 
 - Creación de columnas derivadas a partir de la columna order_date. Esto fue necesario para poder determinar exactamente los días y meses con más pedidos. Algunas de las funciones que se utilizaron fueron UPPER, para colocar el día y el mes en mayúscula y LEFT, para extraer solamente las 3 primeras letras de cada día y mes, pudiéndose apreciar visualmente en los dashboards.
-### 6. Transformación de datos
-
+### 6. Creación de medidas
+Se crearon diferentes medidas utilizando el lenguaje DAX que incluyeron los siguientes cálculos:
+- Gasto promedio por pedido
+- Promedio de pizzas por orden
+- Total de ingresos
+- Total de órdenes
+- Total de pizzas vendidas
 
 
 
