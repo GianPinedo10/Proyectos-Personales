@@ -9,5 +9,7 @@ Se realizaron diversas consultas SQL para explorar y analizar los datos de las v
 Después de finalizar con el análisis exploratorio en SQL es necesario importar la base de datos en Power BI 
 ### 5. Transformación de datos
 Antes de construir los reportes, se utilizaron herramientas de transformación en Power Query para limpiar y estructurar los datos. Los cambios que se hicieron fueron los siguientes:
+- Se creó la columna Década de Estreno derivada de la columna Released_Year para un análisis más sencillo y eficiente. Para ello, se usó la función de CONCATENAR.
+- 
 
--  dasda
+
