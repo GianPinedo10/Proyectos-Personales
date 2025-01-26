@@ -9,8 +9,8 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 
 
 ## Objetivos Generales
-1. Identificar oportunidades de mejora en la oferta del restaurante mediante el análisis de datos de las ventas.
-2. Evaluar el rendimiento de las diferentes categorías y tamaños de pizzas ofrecidas por el restaurante en términos de ingresos y popularidad.
+1. Garantizar la calidad de los datos al corregir errores, valores nulos y discrepancias en el dataset. Es un proceso que es muy importante antes de realizar cualquier análisis. 
+2. 
 3. Analizar las ventas de pizzas para comprender las preferencias de los clientes.
 
 
