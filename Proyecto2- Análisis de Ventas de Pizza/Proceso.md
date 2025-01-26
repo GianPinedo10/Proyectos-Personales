@@ -12,12 +12,16 @@ Antes de construir los reportes, se utilizaron herramientas de transformación e
 - Reemplazo de valores en pizza_size: L por Grande, M por Mediana, S por Pequeña, XL por Extra Grande y XXL por Doble Extra Grande. 
 - Creación de columnas derivadas a partir de la columna order_date. Esto fue necesario para poder determinar exactamente los días y meses con más pedidos. Algunas de las funciones que se utilizaron fueron UPPER, para colocar el día y el mes en mayúscula y LEFT, para extraer solamente las 3 primeras letras de cada día y mes, pudiéndose apreciar visualmente en los dashboards.
 ### 6. Creación de medidas
-Se crearon diferentes medidas utilizando el lenguaje DAX que incluyeron los siguientes cálculos:
+Se crearon diferentes medidas utilizando el lenguaje DAX que incluyen los siguientes cálculos:
 - Gasto promedio por pedido
 - Promedio de pizzas por orden
 - Total de ingresos
 - Total de órdenes
 - Total de pizzas vendidas
+### 7. Creación de dashboards
+Con las medidas creadas y los datos transformados, se diseñaron dashboards interactivos para visualizar los resultados del análisis de ventas de pizzas. Estas visualizaciones incluyeron gráficos de anillos, columnas apiladas, de áreas, entre otros. Además, se incorporaron filtros dinámicos que permitieron segmentar la información por categorías de pizza y seleccionar fechas específicas. Por último, para facilitar la navegación entre los dashboards creados se agregó un botón que permitió cambiar las vistas. 
+
+  
 
 
 
