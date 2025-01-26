@@ -2,6 +2,11 @@
 ## Descripción del Proyecto:
 Este proyecto se centró en la limpieza y preparación de datos de un dataset relacionado a las ventas de una cafetería utilizando Microsoft SQL Server. El objetivo principal fue identificar y corregir valores inconsistentes, eliminar datos erróneos, y completar valores faltantes en diversas columnas.
 
+![image](https://github.com/user-attachments/assets/ac119ef8-9321-4fdd-b55c-7f04e1296252)
+
+![image](https://github.com/user-attachments/assets/a09b601b-df3f-404b-b6b6-d1838d864517)
+
+
 ## Objetivos Generales
 1. Identificar oportunidades de mejora en la oferta del restaurante mediante el análisis de datos de las ventas.
 2. Evaluar el rendimiento de las diferentes categorías y tamaños de pizzas ofrecidas por el restaurante en términos de ingresos y popularidad.
