@@ -6,10 +6,13 @@ Se importó el archivo CSV dentro de la base de datos creada anteriormente con t
 ### 3. Análisis Exploratorio con consultas SQL
 Se realizaron diversas consultas SQL para explorar y analizar los datos de las ventas de pizzas. Para mayor detalle, todas las consultas utilizadas en el proyecto están en el archivo [Consultas SQL](https://github.com/GianPinedo10/Proyectos-Personales/blob/main/Proyecto2-%20An%C3%A1lisis%20de%20Ventas%20de%20Pizza/Consultas%20SQL.sql).
 ### 4. Importación base de datos en Power Bi
-Después de finalizar con el análisis exploratorio en SQL es necesario importar la base de datos en Power BI 
+Después de finalizar con el análisis exploratorio en SQL es necesario importar la base de datos en Power BI. 
 ### 5. Transformación de datos
 Antes de construir los reportes, se utilizaron herramientas de transformación en Power Query para limpiar y estructurar los datos. Los cambios que se hicieron fueron los siguientes:
-- Se creó la columna Década de Estreno derivada de la columna Released_Year para un análisis más sencillo y eficiente. Para ello, se usó la función de CONCATENAR.
-- 
+- Reemplazo de valores en pizza_size: L por Grande, M por Mediana, S por Pequeña, XL por Extra Grande y XXL por Doble Extra Grande. 
+- Creación de columnas derivadas a partir de la columna order_date. Esto fue necesario para poder determinar exactamente los días y meses con más pedidos. Algunas de las funciones que se utilizaron fueron UPPER, para colocar el día y el mes en mayúscula y LEFT, para extraer solamente las 3 primeras letras de cada día y mes, pudiéndose apreciar visualmente en los dashboards.
+### 6. Transformación de datos
+
+
 
 
