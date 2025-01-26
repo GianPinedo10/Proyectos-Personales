@@ -11,7 +11,7 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 ## Objetivos Generales
 1. Garantizar la calidad de los datos al corregir errores, valores nulos y discrepancias en el dataset. Es un proceso que es muy importante antes de realizar cualquier análisis. 
 2. Destacar la importancia de la limpieza en los datos debido a que es una habilidad clave que un analista de datos debe tener.
-3. Analizar las ventas de pizzas para comprender las preferencias de los clientes.
+3. 
 ## Dataset
 **Fuente**: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
 
