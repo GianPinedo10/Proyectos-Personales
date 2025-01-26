@@ -37,7 +37,7 @@ En esta sección se resumen los hallazgos más importantes obtenidos a partir de
 ## Conclusiones
 - El auge de los ingresos en la década de 2010s refleja el impacto del crecimiento global del cine y una mayor distribución internacional.
 - Las películas con un Meta_Score alto no solo son mejor valoradas por la crítica, sino que también parecen tener una mayor capacidad de generar ingresos. Por ello, es muy importante la percepción positiva del público y los críticos.
-- Los altos ingresos en los géneros como Fantasy y Action     
+- Los altos ingresos en los géneros como Fantasy y Action reflejan su capacidad para atraer a un público masivo que se encuentra muy interesada en estas clases de películas.      
 - La predominancia de Comedy en películas con clasificación G sugiere que este género es especialmente efectivo para audiencias familiares, lo que podría representar una oportunidad para algún estudio cinematográfico en desarrollar contenido accesible para todas las edades.
 
     
