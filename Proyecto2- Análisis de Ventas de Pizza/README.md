@@ -12,6 +12,23 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 2. Evaluar el rendimiento de las diferentes categorías y tamaños de pizzas ofrecidas por el restaurante en términos de ingresos y popularidad.
 3. Analizar las ventas de pizzas para comprender las preferencias de los clientes.
 
+## Dataset
+**Fuente**: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
+**Contenido**: El dataset contiene información de las ventas de pizza de un restaurante con las siguientes columnas:
+ - **order_id**: Identificador único para cada pedido realizado por una mesa.
+  - **order_details_id**: Identificador único para cada pizza colocada dentro de cada pedido.
+  - **pizza_id**: Identificador único que vincula la pizza solicitada con sus detalles.
+  - **quantity**: Cantidad pedida para cada pizza.
+  - **order_date**: Fecha en que se realizó el pedido.
+  - **order_time**: Hora en que se realizó el pedido.
+  - **unit_price**: Precio de la pizza en USD.
+  - **total_price**: unit_price * quantity.
+ - **pizza_size**: Tamaño de la pizza(S, M, L, XL, XXL).
+  - **pizza_category**: Categoría de la pizza(Classic, Veggie, Supreme, Chicken).
+  - **pizza_ingredients**: Ingredientes utilizados en la pizza.
+  - **pizza_name**: Nombre de la pizza como se muestra en el menú.
+
+    
 ## Hallazgos Clave
 -  Los días con más órdenes fueron viernes y sábado, reflejando una mayor cantidad de clientes los fines de semana.
 -  Los meses de julio y mayo registraron los mayores volúmenes de pedidos.
@@ -19,6 +36,8 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 -  La pizza de tamaño Grande representó un 45.89% de los ingresos totales.
 -  Entre todas las pizzas, La Thai Chicken Pizza fue la que más contribuyó a los ingresos generales.
 -  Por otro lado, La Brie Carre Pizza tuvo el menor impacto en las ventas.
+
+  
 ## Recomendaciones
 -  Analizar los tiempos de preparación y entrega en los días más ocupados para mejorar la eficiencia y la satisfacción del cliente. Es importante que se pueda gestionar todo de manera correcta.
 -  Ofrecer descuentos especiales o promociones durante los días de baja demanda para atraer a más clientes.
