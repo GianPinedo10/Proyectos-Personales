@@ -14,6 +14,7 @@ Para poder visualizar el dashboard interactivo en Power Bi es necesario ingresar
 
 ## Dataset
 **Fuente**: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
+
 **Contenido**: El dataset contiene información de las ventas de pizza de un restaurante con las siguientes columnas:
  - **order_id**: Identificador único para cada pedido realizado por una mesa.
   - **order_details_id**: Identificador único para cada pizza colocada dentro de cada pedido.
