@@ -36,6 +36,5 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 - Es importante realizar validaciones después de aplicar las transformaciones a los datos, para asegurar de que las modificaciones no hayan introducido nuevos errores o inconsistencias en el dataset. 
 - Es posible rellenar algunos datos faltantes según otra fila si se tiene una relación lógica entre ambas utilizando Self Join. 
 - Existen diferentes técnicas de limpieza de datos que pueden aplicarse dependiendo del tipo de problema identificado en un dataset. Queda en criterio de uno mismo saber cuál aplicar y que es lo más recomendable en cada situación. 
-- La herramienta utilizada para este proyecto fue SQL, y una vez completado el proceso de limpieza, los datos pueden exportarse a un archivo CSV si se desea trasladar después a un Excel por ejemplo. 
-
+- La herramienta utilizada para este proyecto fue Microsoft SQL Server, y una vez completado el proceso de limpieza, los datos pueden exportarse a un archivo CSV.
 
