@@ -33,10 +33,9 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 - Después de haber realizado la limpieza en la columna Total_Spent, se eliminaron unos pocos registros para mantener la consistencia de los datos en relación con el precio que tenía cada producto de la cafetería. 
 
 ## Lecciones Aprendidas
-- Es importante saber como manejar los diferentes
-- Es posible rellenar algunos datos faltantes según otra fila si se tiene una relación lógica entre ambas.
-- Existen diferentes técnicas de limpieza de datos que pueden aplicarse dependiendo del tipo de problema identificado en un dataset. Queda en criterio de uno mismo saber cual aplicar y que es lo más recomendable en cada situación. 
--   
-
+- Es importante realizar validaciones después de aplicar las transformaciones a los datos, para asegurar de que las modificaciones no hayan introducido nuevos errores o inconsistencias en el dataset. 
+- Es posible rellenar algunos datos faltantes según otra fila si se tiene una relación lógica entre ambas utilizando Self Join. 
+- Existen diferentes técnicas de limpieza de datos que pueden aplicarse dependiendo del tipo de problema identificado en un dataset. Queda en criterio de uno mismo saber cuál aplicar y que es lo más recomendable en cada situación. 
+- La herramienta a utilizar para el proyecto fue SQL aunque al finalizar la limpieza se puede exportar el archivo de la base de datos a un CSV para trabajar en Excel si se desea. 
 
 
