@@ -35,7 +35,7 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 ## Lecciones Aprendidas
 - Es importante saber como manejar los diferentes
 - Es posible rellenar algunos datos faltantes según otra fila si se tiene una relación lógica entre ambas.
-- Existen diferentes técnicas de limpieza de datos que pueden aplicarse dependiendo del tipo de problema identificado en un dataset.
+- Existen diferentes técnicas de limpieza de datos que pueden aplicarse dependiendo del tipo de problema identificado en un dataset. Queda en criterio de uno mismo saber cual aplicar y que es lo más recomendable en cada situación. 
 -   
 
 
