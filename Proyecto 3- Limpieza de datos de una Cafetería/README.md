@@ -28,8 +28,11 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 ## Problemas Identificados
 - Había una gran cantidad de valores NULL, pero no solamente ello sino que también otros tipos de valores como "ERROR" o "UNKNOWN" en la gran mayoría de columnas del dataset. 
 - 
+-
+-
 
 ## Lecciones Aprendidas
+- Es importante saber como manejar los diferentes 
 
 
 
