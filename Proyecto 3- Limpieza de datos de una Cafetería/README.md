@@ -27,9 +27,9 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 
 ## Problemas Identificados
 - Había una gran cantidad de valores NULL, pero no solamente ello sino que también otros tipos de valores como "ERROR" o "UNKNOWN" en la gran mayoría de columnas del dataset. 
+- Al inicio  
+- En algunos casos se podía completar valores NULl en una columna basándonos en otra como Total_Spent que era el resultado de la multiplicación de Quantity con Price_Per_Unit. Sin embargo, esto no era posible en todas las situaciones. 
 - 
--
--
 
 ## Lecciones Aprendidas
 - Es importante saber como manejar los diferentes 
