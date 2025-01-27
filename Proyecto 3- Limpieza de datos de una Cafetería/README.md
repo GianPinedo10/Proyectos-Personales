@@ -27,9 +27,10 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
 
 ## Problemas Identificados
 - Había una gran cantidad de valores nulos, además de otros tipos de valores como "ERROR" o "UNKNOWN" en la gran mayoría de columnas del dataset. 
-- Antes de realizar la limpieza de los datos hice el conteo de los valores nulos, así como para los valores "ERROR" y "UNKNOWN". 
-- En algunos casos, era posible completar los valores nulos en la columna Total_Spent utilizando los valores de Quantity y Price_Per_Unit mediante la multiplicación de ambas columnas. Sin embargo, esta solución no fue aplicable en todos los casos.
-- aplicar varias veces el mismo código 
+- Antes de realizar la limpieza de los datos, se realizó el conteo de los valores nulos, pero para los valores "ERROR" y "UNKNOWN" no era posible por un problema con el tipo de dato. Por ello, se tuvo que convertir estos valores a nulos y así realizar el conteo de forma completa. 
+- Completar los valores nulos en la columna Total_Spent fue posible utilizando los valores de Quantity y Price_Per_Unit mediante la multiplicación de ambas columnas. Sin embargo, esta solución no fue aplicable en todos los casos.
+- Al rellenar los valores en los registros nulos, se observó que, en algunos casos, aún quedaban valores nulos después de ejecutar el código. Por lo tanto, fue necesario ejecutar el proceso varias veces más.  
+- Después de haber realizado la limpieza en la columna Total_Spent, fue necesario eliminar unos pocos registros para mantener la consistencia de los datos en relación con el precio que tenía cada producto de la cafetería. 
 
 ## Lecciones Aprendidas
 - Es importante saber como manejar los diferentes 
