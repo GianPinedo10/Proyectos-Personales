@@ -25,5 +25,5 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
   - **Location**: El lugar donde ocurrió la transacción. 
   - **Transaction Date**: La fecha de la transacción.
 
-
+## Objetivos Generales
 
