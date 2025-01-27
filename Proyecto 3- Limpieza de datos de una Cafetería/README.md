@@ -26,7 +26,8 @@ Este proyecto se centró en la limpieza y preparación de datos de un dataset re
   - **Transaction Date**: La fecha de la transacción.
 
 ## Problemas Identificados
-- asdkasdpas
+- Había una gran cantidad de valores NULL, pero no solamente ello sino que también otros tipos de valores como "ERROR" o "UNKNOWN" en la gran mayoría de columnas del dataset. 
+- 
 
 ## Lecciones Aprendidas
 
