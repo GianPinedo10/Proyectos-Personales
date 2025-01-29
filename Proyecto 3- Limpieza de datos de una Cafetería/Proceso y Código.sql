@@ -61,7 +61,8 @@ WHERE Price_Per_Unit IS NULL AND Quantity > 0;
 UPDATE cafe_sales
 SET Quantity = Total_Spent / Price_Per_Unit
 WHERE Quantity IS NULL AND Price_Per_Unit > 0;
--- Los valores nulos que quedan se terminan rellenando con valores aleatorios entre 1 y 5 ya que no había otra manera de saber la cantidad de productos que compra cada cliente
+-- Los valores nulos que quedan se terminan rellenando con valores aleatorios entre 1 y 5 ya que no había otra manera de saber la cantidad de productos que
+-- compra cada cliente
 UPDATE cafe_sales
 SET Quantity = FLOOR(RAND(CHECKSUM(NEWID())) * 5) + 1
 WHERE Quantity IS NULL;	
